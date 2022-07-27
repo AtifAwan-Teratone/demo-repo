@@ -7,4 +7,5 @@
 	echo 'Test 123';
 	echo '4535346346';
 	echo 'test';
+	echo 'Local Update';
 ?>
